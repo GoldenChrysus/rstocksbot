@@ -1,5 +1,5 @@
 # rstocksbot
-Chat bot based on [discord.js](https://github.com/hydrabolt/discord.js) for the [/r/stocks](https://www.reddit.com/r/stocks/) subreddit [chat server](http://www.r-stocks.com/chat/).
+Discord chat bot based on [discord.js](https://github.com/hydrabolt/discord.js) for the [/r/stocks](https://www.reddit.com/r/stocks/) subreddit [chat server](http://www.r-stocks.com/chat/).
 
 ## Commands
 __!price *$SYMBOL*__ - retrieve latest price info on a stock
