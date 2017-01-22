@@ -21,13 +21,13 @@ npm start
 
 ### Using NPM
 
-To install, use NPM to install the package
+To install, install the package via NPM:
 
 ```
 npm install rstocksbot
 ```
 
-Navigate to the directory that contains the install.
+Navigate to the directory that contains the install:
 
 On Linux, this is usually "~/node_modules/rstocksbot"
 
