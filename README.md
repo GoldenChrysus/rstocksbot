@@ -5,7 +5,7 @@ Discord chat bot based on [discord.js](https://github.com/hydrabolt/discord.js) 
 
 ### Linux
 
-### Using git
+#### Using git
 
 To install, clone the git repository:
 
@@ -19,7 +19,7 @@ Start the package:
 
 `npm start`
 
-### Using NPM
+#### Using NPM
 
 To install, install the package:
 
