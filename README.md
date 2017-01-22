@@ -24,7 +24,7 @@ npm start
 To install, use NPM to install the package
 
 ```
-cd ~/node_modules/rstocksbot
+npm install rstocksbot
 ```
 
 Navigate to the directory that contains the install.
