@@ -3,9 +3,9 @@ Discord chat bot based on [discord.js](https://github.com/hydrabolt/discord.js) 
 
 ## How to use
 
-### Linux
+## Linux
 
-#### Using git
+### Using git
 
 To install, clone the git repository and install the package:
 
@@ -21,13 +21,22 @@ Start the package:
 npm start
 ```
 
-#### Using NPM
+### Using NPM
 
-To install, install the package and navigate to the installation directory
+To install, use NPM to install the package
 
 ```
-npm install rstocksbot
 cd ~/node_modules/rstocksbot
+```
+
+Navigate to the directory that contains the install.
+
+On Linux, this is usually "~/node_modules/rstocksbot"
+
+On Windows, this is usually "C:\Users\[your\_username]\node_modules\rstocksbot"
+
+```
+cd your_installation_directory
 ```
 
 Start the package:
