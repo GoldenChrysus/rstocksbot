@@ -25,14 +25,14 @@ Start the package:
 `npm start`
 
 ## Dependencies 
-* [discord.js](https://www.npmjs.com/package/discord.js) - 10.0.1
-* [fs](https://www.npmjs.com/package/fs) - 0.0.1-security
-* [node-opus](https://www.npmjs.com/package/node-opus) - 0.2.4
-* [opusscript](https://www.npmjs.com/package/opusscript) - 0.0.1
-* [request](https://www.npmjs.com/package/request) - 2.69.0
-* [youtube-dl](https://www.npmjs.com/package/youtube-dl) - 1.11.1
-* [ytdl-core](https://www.npmjs.com/package/ytdl-core) - 0.7.19
-* [electron](https://www.npmjs.com/package/electron) - 1.4.15
+* [discord.js](https://www.npmjs.com/package/discord.js) - **10.0.1** - used for interfacing with Discord
+* [fs](https://www.npmjs.com/package/fs) - **0.0.1-security** - used to write YouTube audio to the local disk for playback
+* [node-opus](https://www.npmjs.com/package/node-opus) - **0.2.4** - audio codec for voice
+* [opusscript](https://www.npmjs.com/package/opusscript) - **0.0.1** - audio codec for voice
+* [request](https://www.npmjs.com/package/request) - **2.69.0** - used to GET/POST to the server handlers and receive the response
+* [youtube-dl](https://www.npmjs.com/package/youtube-dl) - **1.11.1** - deprecated
+* [ytdl-core](https://www.npmjs.com/package/ytdl-core) - **0.7.19** - used to download YouTube video info and audio
+* [electron](https://www.npmjs.com/package/electron) - **1.4.15** - used to pull javascript-generated content from websites
 
 ## Commands
 __!price _$SYMBOL___ - retrieve latest price info on a stock
