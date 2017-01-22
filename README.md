@@ -35,7 +35,7 @@ Start the package:
 * [electron](https://www.npmjs.com/package/electron) - **1.4.15** - used to pull javascript-generated content from websites
 
 ## Commands
-**!price $SYMBOL** - retrieve latest price info on a stock
+**!price _$SYMBOL_** - retrieve latest price info on a stock
 
 __!_$SYMBOL___ - retrieve an overview of a stock
 
