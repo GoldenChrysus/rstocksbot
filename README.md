@@ -17,18 +17,24 @@ npm install
 
 Start the package:
 
-`npm start`
+```
+npm start
+```
 
 #### Using NPM
 
 To install, install the package and navigate to the installation directory
 
-```npm install rstocksbot
-cd ~/node_modules/rstocksbot```
+```
+npm install rstocksbot
+cd ~/node_modules/rstocksbot
+```
 
 Start the package:
 
-`npm start`
+```
+npm start
+````
 
 ## Dependencies 
 * [discord.js](https://www.npmjs.com/package/discord.js) - **10.0.1** - used for interfacing with Discord
