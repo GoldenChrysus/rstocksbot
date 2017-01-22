@@ -49,11 +49,11 @@ __!nextdiv _$SYMBOL___ - retrieve the next dividend date for a stock
 
 __!bio _$SYMBOL___ - retrieve a short profile bio about a stock
 
-__!findticker _companyName___ - lookup the ticker for a company
+__!findticker _COMPANY_NAME___ - lookup the ticker for a company
 
-__!define _term___ - retrieve definition of a financial term
+__!define _TERM___ - retrieve definition of a financial term
 
-__!pattern _patternName___ - display image example of a specified pattern
+__!pattern _PATTERN_NAME___ - display image example of a specified pattern
 
 __!historicalreturns__ - quick reference of annualized S&P 500 returns
 
@@ -63,6 +63,6 @@ __!wiki__ - receive URL of the /r/stocks wiki
 
 __!movies__ - receive a list of great finance movies/documentaries
 
-__!song _YouTubeURLorCode___ - plays the specified song in the voice channel
+__!song _YOUTUBE_URL_OR_CODE___ - plays the specified song in the voice channel
 
 Replace $ with / for futures or . for currencies.
