@@ -3,8 +3,6 @@ Discord chat bot based on [discord.js](https://github.com/hydrabolt/discord.js) 
 
 ## How to use
 
-## Linux
-
 ### Using git
 
 To install, clone the git repository and install the package:
