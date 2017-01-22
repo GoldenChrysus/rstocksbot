@@ -2,11 +2,21 @@
 Discord chat bot based on [discord.js](https://github.com/hydrabolt/discord.js) for the [/r/stocks](https://www.reddit.com/r/stocks/) subreddit [chat server](http://www.r-stocks.com/chat/).
 
 ## How to use
-To install:
+
+### Linux
+To install, you can use NPM:
 
 `npm install rstocksbot`
 
-Navigate to installation directory:
+Or you can clone the git repository:
+
+```
+git clone https://github.com/GoldenChrysus/rstocksbot.git
+cd rstocksbot
+npm install
+```
+
+Navigate to installation directory if you aren't already there (if you didn't use git clone):
 
 `cd ~/node_modules/rstocksbot`
 
