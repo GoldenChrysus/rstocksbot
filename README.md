@@ -39,7 +39,7 @@ __!price _$SYMBOL___  - retrieve latest price info on a stock
 
 __!_$SYMBOL___ - retrieve an overview of a stock
 
-__!chart _$SYMBOL_ [--_CANDLE_SIZE_]__ - display chart for a stock; optional candle sizes are "3m": 3-minute, "5m": 5-minute, "15m": 15-minute, "d": daily, "w": weekly, "m": monthly; e.g. __!chart $MSFT --w
+__!chart _$SYMBOL_ [--_CANDLE_SIZE_]__ - display chart for a stock; optional candle sizes are "3m": 3-minute, "5m": 5-minute, "15m": 15-minute, "d": daily, "w": weekly, "m": monthly; e.g. !chart $MSFT --w
 
 __!exthours _$SYMBOL___ - retrieve premarket/after hours price info on a stock where available
 
