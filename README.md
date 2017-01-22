@@ -57,7 +57,7 @@ __!pattern _PATTERN_NAME___ - display image example of a specified pattern
 
 __!historicalreturns__ - quick reference of annualized S&P 500 returns
 
-__!map [-t _TYPE_]__ - display the Finviz daily heatmap; optional types are "sp" (S&P 500), "world", "all", and "etf"; e.g. __!map -t etf
+__!map [-t _TYPE_]__ - display the Finviz daily heatmap; optional types are "sp" (S&P 500), "world", "all", and "etf"; e.g. !map -t etf
 
 __!wiki__ - receive URL of the /r/stocks wiki
 
