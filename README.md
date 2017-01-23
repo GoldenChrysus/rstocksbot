@@ -31,7 +31,7 @@ Navigate to the directory that contains the install:
 
 On Linux, this is usually "~/node_modules/rstocksbot"
 
-On Windows, this is usually "C:\Users\\[your\_username]\node_modules\rstocksbot"
+On Windows, this is usually "C:/Users/[your\_username]/node_modules/rstocksbot"
 
 ```
 cd your_installation_directory
