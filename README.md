@@ -5,7 +5,7 @@ Discord chat bot based on [discord.js](https://github.com/hydrabolt/discord.js) 
 
 ### Using git
 
-To install, clone the git repository and install the package:
+Clone the git repository and install the package:
 
 ```
 git clone https://github.com/GoldenChrysus/rstocksbot.git
@@ -21,7 +21,7 @@ npm start
 
 ### Using NPM
 
-To install, install the package via NPM:
+Install the package via NPM:
 
 ```
 npm install rstocksbot
