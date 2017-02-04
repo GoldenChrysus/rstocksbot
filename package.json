@@ -10,7 +10,7 @@
 		"opusscript" : "0.0.1",
 		"request"    : "2.69.0",
 		"youtube-dl" : "1.11.1",
-		"ytdl-core"  : "0.7.19"
+		"ytdl-core"  : "0.8.1"
 	},
 	"devDependencies" : {
 		"electron" : "1.4.15"

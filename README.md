@@ -50,7 +50,7 @@ npm start
 * [opusscript](https://www.npmjs.com/package/opusscript) - **0.0.1** - audio codec for voice
 * [request](https://www.npmjs.com/package/request) - **2.69.0** - used to GET/POST to the server handlers and receive the response
 * [youtube-dl](https://www.npmjs.com/package/youtube-dl) - **1.11.1** - deprecated 
-* [ytdl-core](https://www.npmjs.com/package/ytdl-core) - **0.7.19** - used to download YouTube video info and audio
+* [ytdl-core](https://www.npmjs.com/package/ytdl-core) - **0.8.1** - used to download YouTube video info and audio
 * [electron](https://www.npmjs.com/package/electron) - **1.4.15** - used to pull javascript-generated content from websites
 
 ## Commands
